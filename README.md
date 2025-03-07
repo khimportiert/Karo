@@ -2,7 +2,7 @@
 
 ![Karo Logo](./assets/logo.png)
 
-**Karo** ist eine leistungsstarke Software zur Unterstützung und Optimierung der Disposition im Krankentransport. Es nutzt **Open Street Maps**, **Open Route Service** und **VROOM**, um effiziente Routen für Krankentransporte zu berechnen, Leerfahrten zu minimieren und die Auslastung der Fahrzeuge zu maximieren. Die intuitive Benutzeroberfläche erlaubt eine schnelle Planung, Anpassung und Visualisierung der Routen.
+**Karo** ist eine leistungsstarke Software zur Unterstützung und Optimierung der Disposition im Krankentransport. Es nutzt **Open Street Maps**, **Open Route Service** und **VROOM**, um effiziente Routen für Krankentransporte zu berechnen, Leerfahrten zu minimieren und die Auslastung der Fahrzeuge zu maximieren.
 
 ---
 
