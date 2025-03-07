@@ -9,20 +9,20 @@
 ## Funktionen
 
 ### Kartenbasierte Planung
-✅ Anzeige aller geplanten Fahrten auf einer interaktiven Karte
-✅ Visualisierung von Fahrtrouten, Zwischenstopps und Fahrzeiten
-✅ Detaillierte Infos über Start, Ziel und geschätzter Ankunftszeit
+✅ Anzeige aller geplanten Fahrten auf einer interaktiven Karte  
+✅ Visualisierung von Fahrtrouten, Zwischenstopps und Fahrzeiten  
+✅ Detaillierte Infos über Start, Ziel und geschätzter Ankunftszeit  
 
 ### Intelligente Disposition
-✅ Optimierte Dispositionsvorschläge basierend auf Kapazität & Verfügbarkeit
-✅ Minimierung von Leerfahrten durch intelligente Routenplanung
-✅ Automatische Berechnung von Wartezeiten und Pufferzonen  
-✅ Anpassung von Routen per Drag & Drop
-
+✅ Optimierte Dispositionsvorschläge basierend auf Kapazität & Verfügbarkeit  
+✅ Minimierung von Leerfahrten durch intelligente Routenplanung  
+✅ Automatische Berechnung von Wartezeiten und Pufferzonen    
+✅ Anpassung von Routen per Drag & Drop  
+ 
 ### Analyse & Statistiken
-✅ Grafische Darstellung der Fahrzeugauslastung
-✅ Analyse der Effizienz von Routen & Fahrzeiten
-✅ Export von Berichten für weitere Auswertungen
+✅ Grafische Darstellung der Fahrzeugauslastung  
+✅ Analyse der Effizienz von Routen & Fahrzeiten  
+✅ Export von Berichten für weitere Auswertungen  
 
 ---
 
@@ -36,18 +36,13 @@
 ---
 
 ### Installation
-```bash
-git clone https://github.com/dein-github/karo.git
-cd karo
-npm install
-```
 
 ---
 
 ## Zukünftige Features
-- [ ] Live-Tracking der Fahrzeuge
-- [ ] API-Integration für externe Dienstleister
-- [ ] Unterstützung für mehrere Benutzer & Rollenmanagement
+- [ ] Live-Tracking der Fahrzeuge  
+- [ ] API-Integration für externe Dienstleister  
+- [ ] Unterstützung für mehrere Benutzer & Rollenmanagement  
 
 ---
 
