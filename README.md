@@ -13,6 +13,8 @@
 ✅ Visualisierung von Fahrtrouten, Zwischenstopps und Fahrzeiten  
 ✅ Detaillierte Infos über Start, Ziel und geschätzter Ankunftszeit  
 
+![Map Video](./assets/map.gif)
+
 ### Intelligente Disposition
 ✅ Optimierte Dispositionsvorschläge basierend auf Kapazität & Verfügbarkeit  
 ✅ Minimierung von Leerfahrten durch intelligente Routenplanung  
